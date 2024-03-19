@@ -1,0 +1,104 @@
+{
+  "top_players": [
+    {
+      "rank": 1,
+      "tier": "Diamond",
+      "riot_id": "TTV Wise",
+      "lp": 1200,
+      "region": "EUW",
+      "image": "player1.jpg",
+      "banner": "banner1.jpg",
+      "border": "border1.jpg"
+    },
+    {
+      "rank": 2,
+      "tier": "Platinum",
+      "riot_id": "Player2",
+      "lp": 1150,
+      "region": "EUW",
+      "image": "player2.jpg",
+      "banner": "banner2.jpg",
+      "border": "border2.jpg"
+    },
+    {
+      "rank": 3,
+      "tier": "Gold",
+      "riot_id": "Player3",
+      "lp": 1100,
+      "region": "KR",
+      "image": "player3.jpg",
+      "banner": "banner3.jpg",
+      "border": "border3.jpg"
+    },
+    {
+      "rank": 4,
+      "tier": "Silver",
+      "riot_id": "Player4",
+      "lp": 1050,
+      "region": "NA",
+      "image": "player4.jpg",
+      "banner": "banner4.jpg",
+      "border": "border4.jpg"
+    },
+    {
+      "rank": 5,
+      "tier": "Bronze",
+      "riot_id": "Player5",
+      "lp": 1000,
+      "region": "EUW",
+      "image": "player5.jpg",
+      "banner": "banner5.jpg",
+      "border": "border5.jpg"
+    },
+    {
+      "rank": 6,
+      "tier": "Iron",
+      "riot_id": "Player6",
+      "lp": 950,
+      "region": "KR",
+      "image": "player6.jpg",
+      "banner": "banner6.jpg",
+      "border": "border6.jpg"
+    },
+    {
+      "rank": 7,
+      "tier": "Diamond",
+      "riot_id": "Player7",
+      "lp": 900,
+      "region": "NA",
+      "image": "player7.jpg",
+      "banner": "banner7.jpg",
+      "border": "border7.jpg"
+    },
+    {
+      "rank": 8,
+      "tier": "Platinum",
+      "riot_id": "Player8",
+      "lp": 850,
+      "region": "EUW",
+      "image": "player8.jpg",
+      "banner": "banner8.jpg",
+      "border": "border8.jpg"
+    },
+    {
+      "rank": 9,
+      "tier": "Gold",
+      "riot_id": "Player9",
+      "lp": 800,
+      "region": "KR",
+      "image": "player9.jpg",
+      "banner": "banner9.jpg",
+      "border": "border9.jpg"
+    },
+    {
+      "rank": 10,
+      "tier": "Silver",
+      "riot_id": "Player10",
+      "lp": 750,
+      "region": "NA",
+      "image": "player10.jpg",
+      "banner": "banner10.jpg",
+      "border": "border10.jpg"
+    }
+  ]
+}
