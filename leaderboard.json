@@ -11,13 +11,13 @@
         "Summoner": "Player2",
         "Tier": "Diamond",
         "LP": 90,
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/Diamond.svg"
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/diamond.svg"
     },
     {
         "Rank": 3,
         "Summoner": "Player3",
         "Tier": "Gold",
         "LP": 80,
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/Gold.svg"
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg"
     }
 ]
