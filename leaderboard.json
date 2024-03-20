@@ -1,19 +1,19 @@
 [
     {
-        "Rank": 1,
-        "Summoner": "shanks#euvv",
-        "Tier": "Challenger",
-        "LP": "938",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
-        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1625.png"
-    },
-    {
         "Rank": 2,
         "Summoner": "TwTv ManatyLoL#00000",
         "Tier": "Challenger",
         "LP": "1003",
         "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/25.png"
+    },
+    {
+        "Rank": 1,
+        "Summoner": "shanks#euvv",
+        "Tier": "Challenger",
+        "LP": "938",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1625.png"
     },
     {
         "Rank": 3,
@@ -27,7 +27,7 @@
         "Rank": 4,
         "Summoner": "VANDETTA#000",
         "Tier": "Bronze",
-        "LP": "",
+        "LP": "0",
         "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/bronze.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1151.png"
     }
