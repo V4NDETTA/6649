@@ -1,82 +1,34 @@
 [
     {
         "Rank": 1,
-        "Summoner": "Player1",
-        "Tier": "Challenger",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6465.png"
+        "Summoner": "shanks#euvv",
+        "Tier": "Challenger938 LP",
+        "LP": "938",
+        "borderimg": "default_borderimg_url.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1625.png"
     },
     {
         "Rank": 2,
-        "Summoner": "Player2",
-        "Tier": "Diamond",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/diamond.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6466.png"
+        "Summoner": "TwTv ManatyLoL#00000",
+        "Tier": "Challenger987 LP",
+        "LP": "987",
+        "borderimg": "default_borderimg_url.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/25.png"
     },
     {
         "Rank": 3,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6464.png"
+        "Summoner": "Krag20#ZIZON",
+        "Tier": "GrandMaster703 LP",
+        "LP": "703",
+        "borderimg": "default_borderimg_url.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/2074.png"
     },
     {
         "Rank": 4,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6464.png"
-    },
-    {
-        "Rank": 5,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6461.png"
-    },
-    {
-        "Rank": 6,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6442.png"
-    },
-    {
-        "Rank": 7,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6455.png"
-    },
-    {
-        "Rank": 8,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6475.png"
-    },
-    {
-        "Rank": 9,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6471.png"
-    },
-    {
-        "Rank": 10,
-        "Summoner": "Player3",
-        "Tier": "Gold",
-        "LP": "1,402 LP",
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
-        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6460.png"
+        "Summoner": "VANDETTA#000",
+        "Tier": "Bronze II",
+        "LP": "75",
+        "borderimg": "default_borderimg_url.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1151.png"
     }
 ]
