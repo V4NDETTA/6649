@@ -4,20 +4,23 @@
         "Summoner": "Player1",
         "Tier": "Challenger",
         "LP": 100,
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg"
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6465.png"
     },
     {
         "Rank": 2,
         "Summoner": "Player2",
         "Tier": "Diamond",
         "LP": 90,
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/diamond.svg"
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/diamond.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6466.png"
     },
     {
         "Rank": 3,
         "Summoner": "Player3",
         "Tier": "Gold",
         "LP": 80,
-        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg"
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6464.png"
     }
 ]
