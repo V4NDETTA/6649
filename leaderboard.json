@@ -1,104 +1,82 @@
-{
-  "top_players": [
-    {
-      "rank": 1,
-      "tier": "Diamond",
-      "riot_id": "TTV Wise",
-      "lp": 1200,
-      "region": "EUW",
-      "image": "player1.jpg",
-      "banner": "banner1.jpg",
-      "border": "border1.jpg"
-    },
-    {
-      "rank": 2,
-      "tier": "Platinum",
-      "riot_id": "XXX",
-      "lp": 1150,
-      "region": "EUW",
-      "image": "player2.jpg",
-      "banner": "banner2.jpg",
-      "border": "border2.jpg"
-    },
-    {
-      "rank": 3,
-      "tier": "Gold",
-      "riot_id": "Player3",
-      "lp": 1100,
-      "region": "KR",
-      "image": "player3.jpg",
-      "banner": "banner3.jpg",
-      "border": "border3.jpg"
-    },
-    {
-      "rank": 4,
-      "tier": "Silver",
-      "riot_id": "Player4",
-      "lp": 1050,
-      "region": "NA",
-      "image": "player4.jpg",
-      "banner": "banner4.jpg",
-      "border": "border4.jpg"
-    },
-    {
-      "rank": 5,
-      "tier": "Bronze",
-      "riot_id": "Player5",
-      "lp": 1000,
-      "region": "EUW",
-      "image": "player5.jpg",
-      "banner": "banner5.jpg",
-      "border": "border5.jpg"
-    },
-    {
-      "rank": 6,
-      "tier": "Iron",
-      "riot_id": "Player6",
-      "lp": 950,
-      "region": "KR",
-      "image": "player6.jpg",
-      "banner": "banner6.jpg",
-      "border": "border6.jpg"
-    },
-    {
-      "rank": 7,
-      "tier": "Diamond",
-      "riot_id": "Player7",
-      "lp": 900,
-      "region": "NA",
-      "image": "player7.jpg",
-      "banner": "banner7.jpg",
-      "border": "border7.jpg"
-    },
-    {
-      "rank": 8,
-      "tier": "Platinum",
-      "riot_id": "Player8",
-      "lp": 850,
-      "region": "EUW",
-      "image": "player8.jpg",
-      "banner": "banner8.jpg",
-      "border": "border8.jpg"
-    },
-    {
-      "rank": 9,
-      "tier": "Gold",
-      "riot_id": "Player9",
-      "lp": 800,
-      "region": "KR",
-      "image": "player9.jpg",
-      "banner": "banner9.jpg",
-      "border": "border9.jpg"
-    },
-    {
-      "rank": 10,
-      "tier": "Silver",
-      "riot_id": "Player10",
-      "lp": 750,
-      "region": "NA",
-      "image": "player10.jpg",
-      "banner": "banner10.jpg",
-      "border": "border10.jpg"
-    }
-  ]
-}
+[
+  {
+    "Tier": "Top 10",
+    "RiotID": "example123",
+    "Rank": "Gold",
+    "LeaguePoint": 2500,
+    "Region": "NA",
+    "SocialMedia": "@example"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "player456",
+    "Rank": "Silver",
+    "LeaguePoint": 1800,
+    "Region": "EUW",
+    "SocialMedia": "@player456"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "gamer789",
+    "Rank": "Diamond",
+    "LeaguePoint": 3200,
+    "Region": "EUNE",
+    "SocialMedia": "@gamer789"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "testuser1",
+    "Rank": "Platinum",
+    "LeaguePoint": 2800,
+    "Region": "NA",
+    "SocialMedia": "@testuser1"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "proplayer99",
+    "Rank": "Diamond",
+    "LeaguePoint": 3400,
+    "Region": "EUW",
+    "SocialMedia": "@proplayer99"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "gamingboss",
+    "Rank": "Gold",
+    "LeaguePoint": 2600,
+    "Region": "EUNE",
+    "SocialMedia": "@gamingboss"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "esportsfanatic",
+    "Rank": "Platinum",
+    "LeaguePoint": 3100,
+    "Region": "NA",
+    "SocialMedia": "@esportsfanatic"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "challenger123",
+    "Rank": "Challenger",
+    "LeaguePoint": 4000,
+    "Region": "EUW",
+    "SocialMedia": "@challenger123"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "flexmaster",
+    "Rank": "Gold",
+    "LeaguePoint": 2700,
+    "Region": "NA",
+    "SocialMedia": "@flexmaster"
+  },
+  {
+    "Tier": "Top 10",
+    "RiotID": "soloqgod",
+    "Rank": "Diamond",
+    "LeaguePoint": 3300,
+    "Region": "EUW",
+    "SocialMedia": "@soloqgod"
+  }
+]
