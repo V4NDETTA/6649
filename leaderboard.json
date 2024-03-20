@@ -1,6 +1,6 @@
 [
     {
-        "Rank": 2,
+        "Rank": 3,
         "Summoner": "TwTv ManatyLoL#00000",
         "Tier": "Challenger",
         "LP": "1003",
@@ -16,7 +16,7 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1625.png"
     },
     {
-        "Rank": 3,
+        "Rank": 4,
         "Summoner": "Krag20#ZIZON",
         "Tier": "GrandMaster",
         "LP": "703",
@@ -24,11 +24,43 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/2074.png"
     },
     {
-        "Rank": 4,
-        "Summoner": "VANDETTA#000",
+        "Rank": 2,
+        "Summoner": "vandetta#000",
         "Tier": "Bronze",
         "LP": "0",
         "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/bronze.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1151.png"
+    },
+    {
+        "Rank": 5,
+        "Summoner": "finox#finox",
+        "Tier": "Gold",
+        "LP": "0",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/6498.png"
+    },
+    {
+        "Rank": 7,
+        "Summoner": "wail albania#3767",
+        "Tier": "Gold",
+        "LP": "0",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/6446.png"
+    },
+    {
+        "Rank": 8,
+        "Summoner": "6MOSAL9#EUW",
+        "Tier": "Platinum",
+        "LP": "0",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/platinum.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/5435.png"
+    },
+    {
+        "Rank": 10,
+        "Summoner": "TMAX 300KM BABY#7340",
+        "Tier": "Gold",
+        "LP": "0",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1151.png"
     }
 ]
