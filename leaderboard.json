@@ -22,5 +22,61 @@
         "LP": 80,
         "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
         "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6464.png"
+    },
+    {
+        "Rank": 4,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6464.png"
+    },
+    {
+        "Rank": 5,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6461.png"
+    },
+    {
+        "Rank": 6,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6442.png"
+    },
+    {
+        "Rank": 7,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6455.png"
+    },
+    {
+        "Rank": 8,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6475.png"
+    },
+    {
+        "Rank": 9,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6471.png"
+    },
+    {
+        "Rank": 10,
+        "Summoner": "Player3",
+        "Tier": "Gold",
+        "LP": 80,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/gold.svg",
+        "icon": "https://static.bigbrain.gg/assets/lol/riot_static/14.5.1/img/profileicon/6460.png"
     }
 ]
