@@ -2,33 +2,33 @@
     {
         "Rank": 1,
         "Summoner": "shanks#euvv",
-        "Tier": "Challenger938 LP",
+        "Tier": "Challenger",
         "LP": "938",
-        "borderimg": "default_borderimg_url.svg",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1625.png"
     },
     {
         "Rank": 2,
         "Summoner": "TwTv ManatyLoL#00000",
-        "Tier": "Challenger987 LP",
-        "LP": "987",
-        "borderimg": "default_borderimg_url.svg",
+        "Tier": "Challenger",
+        "LP": "1003",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/25.png"
     },
     {
         "Rank": 3,
         "Summoner": "Krag20#ZIZON",
-        "Tier": "GrandMaster703 LP",
+        "Tier": "GrandMaster",
         "LP": "703",
-        "borderimg": "default_borderimg_url.svg",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/grandmaster.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/2074.png"
     },
     {
         "Rank": 4,
         "Summoner": "VANDETTA#000",
-        "Tier": "Bronze II",
-        "LP": "75",
-        "borderimg": "default_borderimg_url.svg",
+        "Tier": "Bronze",
+        "LP": "",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/bronze.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1151.png"
     }
 ]
