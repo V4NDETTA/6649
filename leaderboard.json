@@ -1,20 +1,21 @@
 [
     {
         "Rank": 1,
-        "Summoner": "Summoner1",
-        "Tier": "Diamond",
-        "LP": 75
+        "Summoner": "Player1",
+        "Tier": "Challenger",
+        "LP": 100,
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg"
     },
     {
         "Rank": 2,
-        "Summoner": "Summoner2",
-        "Tier": "Platinum",
-        "LP": 63
+        "Summoner": "Player2",
+        "Tier": "Diamond",
+        "LP": 90
     },
     {
         "Rank": 3,
-        "Summoner": "Summoner3",
+        "Summoner": "Player3",
         "Tier": "Gold",
-        "LP": 50
+        "LP": 80
     }
 ]
