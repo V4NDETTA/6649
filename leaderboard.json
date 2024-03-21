@@ -1,14 +1,38 @@
 [
     {
         "Rank": 1,
+        "Summoner": "TTV Potent213#EUW",
+        "Tier": "Challenger",
+        "LP": "1487",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/15.png"
+    },
+    {
+        "Rank": 2,
+        "Summoner": "KC NEXT ADKING#EUW",
+        "Tier": "Challenger",
+        "LP": "1335",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/29.png"
+    },
+    {
+        "Rank": 3,
+        "Summoner": "zyb#EUW",
+        "Tier": "Challenger",
+        "LP": "1315",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/6446.png"
+    },
+    {
+        "Rank": 4,
         "Summoner": "TwTv ManatyLoL#00000",
         "Tier": "Challenger",
-        "LP": "984",
+        "LP": "1029",
         "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/challenger.svg",
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/25.png"
     },
     {
-        "Rank": 2,
+        "Rank": 5,
         "Summoner": "shanks#euvv",
         "Tier": "Challenger",
         "LP": "938",
@@ -16,7 +40,7 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1625.png"
     },
     {
-        "Rank": 3,
+        "Rank": 6,
         "Summoner": "Krag20#ZIZON",
         "Tier": "GrandMaster",
         "LP": "703",
@@ -24,7 +48,15 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/2074.png"
     },
     {
-        "Rank": 4,
+        "Rank": 7,
+        "Summoner": "PIG NEXT TOPKING#PIG",
+        "Tier": "Master",
+        "LP": "618",
+        "borderimg": "https://static.bigbrain.gg/assets/lol/ranks/s13/mini/master.svg",
+        "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/5494.png"
+    },
+    {
+        "Rank": 8,
         "Summoner": "6MOSAL9#EUW",
         "Tier": "Platinum",
         "LP": "0",
@@ -32,7 +64,7 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/5435.png"
     },
     {
-        "Rank": 5,
+        "Rank": 9,
         "Summoner": "finox#finox",
         "Tier": "Gold",
         "LP": "0",
@@ -40,7 +72,7 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/6498.png"
     },
     {
-        "Rank": 6,
+        "Rank": 10,
         "Summoner": "wail albania#3767",
         "Tier": "Gold",
         "LP": "0",
@@ -48,7 +80,7 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/6446.png"
     },
     {
-        "Rank": 7,
+        "Rank": 11,
         "Summoner": "TMAX 300KM BABY#7340",
         "Tier": "Gold",
         "LP": "0",
@@ -56,7 +88,7 @@
         "icon": "//lolg-cdn.porofessor.gg/img/d/summonerIcons/14.5/64/1151.png"
     },
     {
-        "Rank": 8,
+        "Rank": 12,
         "Summoner": "vandetta#000",
         "Tier": "Bronze",
         "LP": "0",
